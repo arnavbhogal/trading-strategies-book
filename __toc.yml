@@ -1,0 +1,19 @@
+format: jb-book
+root: intro
+
+chapters:
+- file: MACDStrategy/macdblog
+  sections:
+  - file: MACDStrategy/macdcode
+
+- file: GreedyStrategy/blog
+  sections:
+  - file: GreedyStrategy/code
+
+- file: ChannelBreakoutstrategy/blog
+  sections:
+  - file: ChannelBreakoutstrategy/code
+
+- file: BollingerStrategy/blog
+  sections:
+  - file: BollingerStrategy/code
